@@ -1,0 +1,31 @@
+* {
+  margin: 10px;
+}
+
+body {
+  background-color: #cdf0ea !important;
+}
+
+#rfc,
+#curp {
+  text-transform: uppercase !important;
+}
+
+input {
+  text-align: center;
+}
+
+tr {
+  text-align: right;
+}
+
+th,
+input {
+  padding: 8px;
+}
+
+form {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #daeaf1;
+}
